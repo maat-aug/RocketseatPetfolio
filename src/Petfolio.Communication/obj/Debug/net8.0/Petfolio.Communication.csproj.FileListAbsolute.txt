@@ -1,0 +1,12 @@
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.deps.json
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.dll
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.pdb
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfoInputs.cache
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfo.cs
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.csproj.CoreCompileInputs.cache
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.sourcelink.json
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.dll
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.pdb
+C:\Code\RocketseatPetfolio\src\Petfolio.Communication\obj\Debug\net8.0\ref\Petfolio.Communication.dll
